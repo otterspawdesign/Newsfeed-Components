@@ -33,6 +33,7 @@ let menuItems = [
   Step 6: add the menu component to the DOM.
   
 */
+
 class Menu {
   constructor(listArray) {
     this.listArray = listArray;
